@@ -1,0 +1,29 @@
+.banner {
+    background: url("https://mcdn.wallpapersafari.com/medium/75/73/jx351b.jpg");
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: #fff;
+  }
+
+  .materi{
+    background: url("https://p4.wallpaperbetter.com/wallpaper/832/254/347/keyboards-mechanical-keyboard-red-black-wallpaper-preview.jpg");
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: #fff;
+  }
+  .bulat {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+  }
+  
+  .bulat i {
+    position: relative;
+    top: 30px;
+  } 
